@@ -13,7 +13,7 @@ A Cradle Song Teaser port for Playstation Vita console leveraging [Ren'Py Vita](
 The installation can take a up to 1 min 30 secs and so does the first startup of the game. Subsequent startups go from zero to operational in around 53-57 sec. All of this is expected behaviour so far.
 
 ### Updating to New Release
-1. Go into **Releases** section of this depository and download the latest _**data.rpa**_ file
+1. Go into **Releases** section of this repository and download the latest _**data.rpa**_ file
 2. Go into **_ux0:app/CDRSLV098/game_** on your Vita and replace existing _**data.rpa**_ with the downloaded one
 
 ## Current Issues
