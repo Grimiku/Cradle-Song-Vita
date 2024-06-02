@@ -22,7 +22,7 @@ The installation can take a up to 1 min 30 secs and so does the first startup of
 
 ## Changelog
 ### Initial Release - v00.98
-* Edited script to remove a code compatability error preventing the game from booting up under Ren'Py Vita
+* Edited script to remove code compatability errors preventing the game from booting up under Ren'Py Vita
 * Edited the resolution to reflect Vita's 960x544 and rescaled/converted every image asset to adjust for the change. That reduced file size by about 25% however only slightly improved overall responsivness
 * Removed ability to change resolution and re-adjusted hardcoded positioning of assests on the screen
 
